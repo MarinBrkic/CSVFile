@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\CSVFile\CSVFile\bin\Debug\CSVFile.exe.config
+C:\Users\Korisnik\source\repos\CSVFile\CSVFile\bin\Debug\CSVFile.exe
+C:\Users\Korisnik\source\repos\CSVFile\CSVFile\bin\Debug\CSVFile.pdb
+C:\Users\Korisnik\source\repos\CSVFile\CSVFile\obj\Debug\CSVFile.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\CSVFile\CSVFile\obj\Debug\CSVFile.Form1.resources
+C:\Users\Korisnik\source\repos\CSVFile\CSVFile\obj\Debug\CSVFile.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\CSVFile\CSVFile\obj\Debug\CSVFile.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\CSVFile\CSVFile\obj\Debug\CSVFile.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\CSVFile\CSVFile\obj\Debug\CSVFile.exe
+C:\Users\Korisnik\source\repos\CSVFile\CSVFile\obj\Debug\CSVFile.pdb
